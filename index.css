@@ -1,0 +1,61 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background: #ECFDF5;
+    padding-left: 52px;
+    padding-top: 50px;
+    font-family: 'Karla', sans-serif;
+}
+
+h2 {
+    font-size: 40px;
+    margin: 0;
+    letter-spacing: -0.05em;
+    
+}
+
+h3 {
+    font-family: 'Inter', sans-serif;
+    font-weight: 300;
+    margin: 10px 0 51px 0;
+    color: #6B7280;
+    font-size: 20px;
+}
+
+#solid-line {
+    border: 1px solid #D5D4D8;
+    width: 400px;
+    margin-right: 800px;
+}
+
+#main-btn {
+    padding: 9px 17px 9px 15px;
+    border-radius: 6px;
+    border: 0;
+    background: #10B981;
+    color: #fff;
+    font-weight: 550;
+}
+
+#btn-password1, #btn-password2, #btn-password3, #btn-password4 {
+    margin-bottom: 27px;
+    margin-right: 24px;
+    padding: 9px 35px 9px 35px;
+    border-radius: 6px;
+    border: 0;
+    background: #273549;
+    color: #5DEF92;
+    
+}
+
+
+.green-text {
+    color: #10B981;
+}
+
+
+
+#main-btn, #solid-line {
+    margin-bottom: 35px;
+}
+
